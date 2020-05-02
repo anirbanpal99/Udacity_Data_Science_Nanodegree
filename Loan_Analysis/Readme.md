@@ -10,3 +10,4 @@ Here the data is analysed based on three question:<br>
 </p>
 
 For details, have a look in the ipython file
+You can also visit <a href="https://medium.com/@anirban345678/one-of-the-best-and-easiest-way-to-analysis-loan-request-530225c43bde">this</a> blog for easy understanding.
