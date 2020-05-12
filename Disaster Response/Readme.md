@@ -20,5 +20,5 @@ At last, you will able to classify any message in a web app, which is very helpf
 
 <h3>Output</h3>
 The output of the web app is given below
-<img src="https://drive.google.com/open?id=1EdBxzFcYccze8e962t7fdaahRzm6aEtV">
-<img src="https://drive.google.com/open?id=1S8yazy2M6hjzegJ65pH7HQByNU3d6Lj4">
+<img src="https://drive.google.com/open?id=1EdBxzFcYccze8e962t7fdaahRzm6aEtV" alt="1">
+<img src="https://drive.google.com/open?id=1S8yazy2M6hjzegJ65pH7HQByNU3d6Lj4" alt="2">
