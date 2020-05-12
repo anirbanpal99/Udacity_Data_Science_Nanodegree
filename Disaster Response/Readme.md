@@ -17,3 +17,8 @@ At last, you will able to classify any message in a web app, which is very helpf
 
 <h3>Notes:</h3>
 <p>In the ML pipeline part I have used Linear Support Vector Classifier. If any one want to do this by KNeighbourClassifier, they can do it, all the neccessary lines are added with <b>train_classifier.py</b> in comments. You can also do it by RandomForest, Logistic Regression. But Among them I found <b>LinearSVC</b> is efficient for me, so I have used it</p>
+
+<h3>Output</h3>
+The output of the web app is given below
+<img src="https://drive.google.com/open?id=1EdBxzFcYccze8e962t7fdaahRzm6aEtV">
+<img src="https://drive.google.com/open?id=1S8yazy2M6hjzegJ65pH7HQByNU3d6Lj4">
