@@ -23,3 +23,5 @@ The output of the web app is given below
 <img src="https://drive.google.com/uc?export=view&id=1EdBxzFcYccze8e962t7fdaahRzm6aEtV" alt="image1">
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1S8yazy2M6hjzegJ65pH7HQByNU3d6Lj4" alt="image2">
+<br>
+<p>If you cannot see the image, you can vistit https://drive.google.com/uc?export=view&id=1EdBxzFcYccze8e962t7fdaahRzm6aEtV for image 1 and https://drive.google.com/uc?export=view&id=1S8yazy2M6hjzegJ65pH7HQByNU3d6Lj4 for image 2</p>
