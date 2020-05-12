@@ -26,4 +26,4 @@ The output of the web app is given below
 <br>
 <p>If you cannot see the image, you can vistit https://drive.google.com/uc?export=view&id=1EdBxzFcYccze8e962t7fdaahRzm6aEtV for image 1 and https://drive.google.com/uc?export=view&id=1S8yazy2M6hjzegJ65pH7HQByNU3d6Lj4 for image 2</p>
 The web app contains total 3 visualization using plotly. If you execute the code, you can see in your web app
-To run the web app https://WORKSPACEID-3001.WORKSPACEDOMAIN use this (replace WORKSPACEID and WORKSPACEDOMAIN by your own ID)
+To run the web app <b>https ://WORKSPACEID-3001.WORKSPACEDOMAIN</b> use this (replace WORKSPACEID and WORKSPACEDOMAIN by your own ID)
