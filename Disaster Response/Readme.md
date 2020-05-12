@@ -14,3 +14,6 @@
 </ul>
 <h3>Conclusion</h3>
 At last, you will able to classify any message in a web app, which is very helpfull for analyzing the classification of disaster message
+
+<h3>Notes:</h3>
+<p>In the ML pipeline part I have used Linear Support Vector Classifier. If any one want to do this by KNeighbourClassifier, they can do it, all the neccessary lines are added with <b>train_classifier.py</b> in comments. You can also do it by RandomForest, Logistic Regression. But Among them I found <b>LinearSVC</b> is efficient for me, so I have used it</p>
